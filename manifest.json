@@ -1,6 +1,6 @@
 {
-    "name": "mudapa",
-    "short_name": "mudapa",
+    "name": "generate_card_qr_to_pdf",
+    "short_name": "generate_card_qr_to_pdf",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
